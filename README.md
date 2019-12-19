@@ -4,11 +4,12 @@
 
 ### Table of Contents
 
-1. [Learn Markdown](https://dotgongja.github.io/learning-journal/learn-markdown)
-2. [Coder's Computer](https://dotgongja.github.io/learning-journal/coders-computer)
-3. [Revisions and Cloud](https://dotgongja.github.io/learning-journal/revisions-and-cloud)
-4. [Structuring a webpage with HTML](structure-webpage-with-html.html)
-5. [Learning CSS](learning-css.html)
+1. [Learn Markdown](learn-markdown.md)
+2. [Coder's Computer](coders-computer.md)
+3. [Revisions and Cloud](revisions-and-cloud.md)
+4. [Structuring a webpage with HTML](structure-webpage-with-html.md)
+5. [Learning CSS](learning-css.md)
+6. [Programming with Javascript](programming-with-javascript.md)
 
 
 
